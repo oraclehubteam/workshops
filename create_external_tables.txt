@@ -6,7 +6,7 @@
 
 set define on
 
-define base_URL='https://objectstorage.us-phoenix-1.oraclecloud.com/n/adwctraining/b/ADWCLab/o/'
+define base_URL='https://objectstorage.us-phoenix-1.oraclecloud.com/n/adwctraining/b/ADWCLab/o'
 
 begin
  dbms_cloud.create_external_table(
